@@ -1,4 +1,4 @@
-# react_api_github_ts
+# github-explorer
  GitHub dashboard created with React JS and TypeScript.
 
- Website: https://react-api-github-ts.vercel.app/
+ Website: https://github-explorer-react-typescript.vercel.app/
